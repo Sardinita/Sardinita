@@ -23,9 +23,10 @@ I really like to share with others what I learn and about opportunities for stud
 
 
 
+
 ## Contact Me
 
 <a href="https://www.linkedin.com/in/mayyy/"><img src = "https://github.com/Sardinita/May/blob/main/SVG/Link.svg" width="50" height="50" /> </a>
-<a href="https://www.instagram.com/sardinita.cosmic/"> <img src = "https://github.com/Sardinita/May/blob/main/SVG/insta.svg" width="50" height="50" /> </a> 
+<a href="https://www.instagram.com/sardinita.cosmic/"> <img src = ![insta](https://user-images.githubusercontent.com/79926594/182289435-57735dcb-5519-4ec7-ad26-9f6adf539412.png) width="50" height="50" /> </a> 
 <a href="mailto:mayra.fernandez@studentambassador.com"> <img src = "https://github.com/Sardinita/May/blob/main/SVG/correo.svg" width="50" height="50" /> 
 
